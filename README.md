@@ -11,14 +11,8 @@ The Design System helps us to:
 - Document our approach to interface design
 - Share our components with other teams
 
-## Getting started with the TEL Design System
-The TEL Design System is provided as a package for use in C# .Net solutions. A compiled version of the CSS and JS is also made available for use in non .Net tech stacks. 
-
-### Install in .Net
-
-### Install in other environments
-
 ## Contents
+- Getting started
 - Styling
 - Components
 - Patterns
