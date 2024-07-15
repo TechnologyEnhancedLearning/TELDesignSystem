@@ -12,7 +12,7 @@ The Design System helps us to:
 - Share our components with other teams
 
 ## Contents
-- Getting started
+- [Getting started](https://github.com/TechnologyEnhancedLearning/TELDesignSystem/wiki/Getting-Started)
 - Styling
 - Components
 - Patterns
